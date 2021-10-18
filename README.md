@@ -46,11 +46,11 @@ Created LeetCodeWeeklyContest264 directory ...
 
 ## Result 
 
-![Note Tutorial](https://github.com/sarveshhiwase/noteglimpser-cli/blob/master/img/output.png?raw=true)
+![Note Tutorial](https://github.com/sarveshhiwase/codemaker/blob/master/img/output.png?raw=true)
 
-![Note Tutorial](https://github.com/sarveshhiwase/noteglimpser-cli/blob/master/img/snippet1.png?raw=true)
+![Note Tutorial](https://github.com/sarveshhiwase/codemaker/blob/master/img/snippet1.png?raw=true)
 
-![Note Tutorial](https://github.com/sarveshhiwase/noteglimpser-cli/blob/master/img/snippet2.png?raw=true)
+![Note Tutorial](https://github.com/sarveshhiwase/codemaker/blob/master/img/snippet2.png?raw=true)
 
 ## Author
 
