@@ -15,10 +15,10 @@ You must have `curl` installed in order to use this script. Check using command 
 
 ## Installation
 
-Run these below commands to download [CodeMaker](codemaker.sh)
+Run these below commands to download [CodeMaker](codemaker)
 
 ```bash
-    sudo curl -L https://github.com/sarveshhiwase/codemaker/releases/latest/download/codemaker -o /usr/local/bin/codemaker
+    sudo curl -L https://github.com/sarveshhiwase/codemaker/releases/download/newaddition/codemaker -o /usr/local/bin/codemaker
 ```
 
 ```bash
