@@ -46,7 +46,11 @@ Created LeetCodeWeeklyContest264 directory ...
 
 ## Result 
 
-- Will add
+![Note Tutorial](https://github.com/sarveshhiwase/noteglimpser-cli/blob/master/img/output.png?raw=true)
+
+![Note Tutorial](https://github.com/sarveshhiwase/noteglimpser-cli/blob/master/img/snippet1.png?raw=true)
+
+![Note Tutorial](https://github.com/sarveshhiwase/noteglimpser-cli/blob/master/img/snippet2.png?raw=true)
 
 ## Author
 
