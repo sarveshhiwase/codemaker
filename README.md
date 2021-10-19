@@ -24,13 +24,13 @@ Install [Git Bash](https://git-scm.com/download/win) on your windows, and <b>run
 
 Run these below commands to download [CodeMaker](codemaker)
 
-bash
+```bash
 curl -L https://github.com/sarveshhiwase/codemaker/releases/download/newaddition/codemaker -o /usr/bin/codemaker
+```
 
-
-bash
+```bash
 chmod a+rx /usr/bin/codemaker
-
+```
 
 Now you're ready to make your coding directories on the fly!
 
@@ -38,13 +38,13 @@ Now you're ready to make your coding directories on the fly!
 
 Run these below commands to download [CodeMaker](codemaker)
 
-bash
+```bash
 sudo curl -L https://github.com/sarveshhiwase/codemaker/releases/download/newaddition/codemaker -o /usr/local/bin/codemaker
+```
 
-
-bash
+```bash
 sudo chmod a+rx /usr/local/bin/codemaker
-
+```
 
 Now you're ready to make your coding directories on the fly!
 
@@ -52,21 +52,21 @@ Now you're ready to make your coding directories on the fly!
 
 - Run the script
 
-bash
+```bash
 codemaker your_directory_name your_file_name.extension [as many you like...]
-
+```
 
 - Example
 
-bash
+```bash
 codemaker LeetCodeWeeklyContest264 program1.cpp program2.cpp program.java
-
+```
 
 ## Output
 
-bash
+```bash
 Created LeetCodeWeeklyContest264 directory ...
-
+```
 
 ## Result 
 
