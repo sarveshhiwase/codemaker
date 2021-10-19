@@ -14,9 +14,9 @@ Bash scripting is very powerful and can be used to built things like this.
 
 You must have `curl` installed in order to use this script. Check using command given below. This will check as well as install the packages.
 
-bash
+```bash
 sudo apt-get update && sudo apt-get install -y curl
-
+```
 
 ## Installation for Windows
 
